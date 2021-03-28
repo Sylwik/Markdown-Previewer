@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Markdown-Previewer/static/css/main.5146c9b7.chunk.css",
+    "main.css": "/Markdown-Previewer/static/css/main.d6a61b11.chunk.css",
     "main.js": "/Markdown-Previewer/static/js/main.efef34f3.chunk.js",
     "main.js.map": "/Markdown-Previewer/static/js/main.efef34f3.chunk.js.map",
     "runtime-main.js": "/Markdown-Previewer/static/js/runtime-main.0980317a.js",
@@ -10,14 +10,14 @@
     "static/js/3.1c898646.chunk.js": "/Markdown-Previewer/static/js/3.1c898646.chunk.js",
     "static/js/3.1c898646.chunk.js.map": "/Markdown-Previewer/static/js/3.1c898646.chunk.js.map",
     "index.html": "/Markdown-Previewer/index.html",
-    "static/css/main.5146c9b7.chunk.css.map": "/Markdown-Previewer/static/css/main.5146c9b7.chunk.css.map",
+    "static/css/main.d6a61b11.chunk.css.map": "/Markdown-Previewer/static/css/main.d6a61b11.chunk.css.map",
     "static/js/2.07f4f6ea.chunk.js.LICENSE.txt": "/Markdown-Previewer/static/js/2.07f4f6ea.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Markdown-Previewer/static/media/bubbles.a272cd1f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0980317a.js",
     "static/js/2.07f4f6ea.chunk.js",
-    "static/css/main.5146c9b7.chunk.css",
+    "static/css/main.d6a61b11.chunk.css",
     "static/js/main.efef34f3.chunk.js"
   ]
 }
